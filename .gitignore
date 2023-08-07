@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+#Добавочка от skypro
+venv/
+.idea/
+__pycache__/
+*.pyc
+#Добавочка от skypro
+
 __pycache__/
 *.py[cod]
 *$py.class
